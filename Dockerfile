@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/example-guestbook-php-redis:v3
+FROM registry.cn-hangzhou.aliyuncs.com/google_containers/tiller：v2.8.0
 
